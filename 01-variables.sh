@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "i am writing vbariables"
+echo  "i am writing vbariables"
